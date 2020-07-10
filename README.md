@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Sajith 👋
+
+I am a Software Engineer from Sri Lanka 🇱🇰 currently living in Munich/Germany 🇩🇪 and working at [Scalable Capital](https://github.com/ScaCap). My favorite programming language is Kotlin and IntelliJIdea is the best IDE ever.
+
+Apart from coding I just love Butterbrezel🥨, Ice Skating ⛸, ice coffee + 🥛 with a lot of sugar and traveling ✈️ all around the world 🌏
 
 <!--
-**sajithdilshan/sajithdilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have no idea why you wanted to look at the raw file, anyways here is the last verse from my favorite poem
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+The woods are lovely, dark and deep,   
+But I have promises to keep,   
+And miles to go before I sleep,   
+And miles to go before I sleep.
 -->
