@@ -1,4 +1,4 @@
-### Hi there, I'm Sajith 👋
+### Hi there, I'm Sajith 👋 (He/Him 🏳️‍🌈)
 
 I am a Senior Software Engineer from Sri Lanka 🇱🇰 currently living in Berlin/Germany 🇩🇪 and working at [Trade Republic](https://traderepublic.com/en-de). My favorite programming language is Kotlin and IntelliJIdea is the best IDE ever.
 
